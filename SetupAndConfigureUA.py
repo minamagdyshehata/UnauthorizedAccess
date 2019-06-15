@@ -45,7 +45,7 @@ if online == True:
         os.system("powershell (new-object System.Net.WebClient).DownloadFile('https://raw.githubusercontent.com/minamagdyshehata/UnauthorizedAccess/master/UA.py','UA.py')")
     else:
         lines = open("UA.py").readlines()
-        if len(lines)== 180:
+        if len(lines)== 186:
             print(green(chr(10) + "The correct UA.py file was found" + chr(10)))
         else:
             print (red(chr(10) + "Corrupted UA.py file was found. The correct file will be downloaded.." + chr(10)))
