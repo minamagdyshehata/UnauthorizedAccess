@@ -23,16 +23,16 @@ your will hear 2 beeps indicating that and the script will terminate.**
 **How to Configure the script:**  
 01- Make sure Pathon3 is installed on your machine.  
 >If not please go to https://www.python.org/, download and install.  
->02- Right Click on "This PC" ===> "Properties" ===> "Advanced System Settings" ===> "Environment Variables".  
->03- In User Variables (Top part), Double click on "Path".  
->04- Make sure the following 2 paths are there, if not click on "New" and add them:  
+02- Right Click on "This PC" ===> "Properties" ===> "Advanced System Settings" ===> "Environment Variables".  
+03- In User Variables (Top part), Double click on "Path".  
+04- Make sure the following 2 paths are there, if not click on "New" and add them:  
 >       %USERPROFILE%\AppData\Local\Programs\Python\Python37\  
 >       %USERPROFILE%\AppData\Local\Programs\Python\Python37\Scripts\  
->05- Download the project zipped folder and unzip it from:  
+05- Download the project zipped folder and unzip it from:  
 >    https://github.com/minamagdyshehata/UnauthorizedAccess/archive/master.zip  
->06- Creat a new GMAIL email and configure it to allow less secured apps by setting this option to "ON" from:  
+06- Creat a new GMAIL email and configure it to allow less secured apps by setting this option to "ON" from:  
 >    https://myaccount.google.com/lesssecureapps?utm_source=google-account&utm_medium=web  
->07- Go to the Unzipped project directory and run "SetupAndConfigureUA.py" and enter the following:  
+07- Go to the Unzipped project directory and run "SetupAndConfigureUA.py" and enter the following:  
 >a. Your GMAIL (the one configured to allow less secured apps).  
 >b. Your GMAIL password.  
 >c. The EMAIL where you want to recieve your Notifications.  
