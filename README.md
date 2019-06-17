@@ -17,7 +17,7 @@ If the password is not provided :
 
     -- A Log file will be created with a timestamp of the unauthorized access.
     -- If a webcam exist a snapshot will be taken.
-       {Special Thanks to: https://github.com/tedburke/CommandCam[https://github.com/tedburke/CommandCam], for making this possible.}
+       {Special Thanks to: https://github.com/tedburke/CommandCam, for making this possible.}
         ** Both the Log file and the snapshot will be saved in the same directory of the script.
     -- If there is an Internet Connection a Notification Email will be sent with the name
        of the machine and the snapshot taken.
