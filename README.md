@@ -63,20 +63,21 @@ Now the script will run everytime your machine is turned on.
 https://superuser.com/questions/615114/how-to-make-a-window-task-run-everytime-i-enter-my-password-unlock-the-computer  
 
 12- Notes:  
->						** If a wrong key is pressed while entering the password you can wait 3 seconds  
-						   then start entering the termination password from the begining  
-						   OR  
-						   press "ENTER" then start typing the password again.  
-						** For the first time you recieve a Notification Email you might need  
-						   to check your Spam or Junk E-mail and configure your email that this is  
-						   not spam so that you can recieve it in your inbox.  
-						** For the first time a Notification Email is sent from a certain machine,  
-						   GMAIL will send you an email asking if that was you on that computer.  
-						   You must confirm that it is you.  
-						** If you want to remove the script do the following:  
-									1. Delete the Task Scheduler entry of the .exe if exist.  
-									2. Delete the .exe file and all the files it created (CommandCam.exe,Log.txt,snapshots).  
-									3. Press "Start+R", type "regedit" and press "ENTER".  
-									5. Navigate to "Computer\HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run",  
-									then delete the entry for your renamed .exe file.  
+>** If a wrong key is pressed while entering the password you can wait 3 seconds  
+    then start entering the termination password from the begining  
+    OR  
+    press "ENTER" then start typing the password again.  
+    
+** For the first time you recieve a Notification Email you might need  
+to check your Spam or Junk E-mail and configure your email that this is  
+not spam so that you can recieve it in your inbox.  
+** For the first time a Notification Email is sent from a certain machine,  
+GMAIL will send you an email asking if that was you on that computer.  
+You must confirm that it is you.  
+** If you want to remove the script do the following:  
+1. Delete the Task Scheduler entry of the .exe if exist.  
+2. Delete the .exe file and all the files it created (CommandCam.exe,Log.txt,snapshots).  
+3. Press "Start+R", type "regedit" and press "ENTER".  
+5. Navigate to "Computer\HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run",  
+then delete the entry for your renamed .exe file.  
                                
