@@ -35,7 +35,7 @@ your will hear 2 beeps indicating that and the script will terminate.**
 05- Download the project zipped folder and unzip it from:  
 https://github.com/minamagdyshehata/UnauthorizedAccess/archive/master.zip  
 
-06- Creat a new GMAIL email and configure it to allow less secured apps by setting this option to "ON" from:  
+06- Create a new GMAIL email and configure it to allow less secured apps by setting this option to "ON" from:  
 https://myaccount.google.com/lesssecureapps?utm_source=google-account&utm_medium=web  
 
 07- Go to the Unzipped project directory and run "SetupAndConfigureUA.py" and enter the following:  
@@ -49,14 +49,14 @@ d. Choose Mode:
 
 >e. Choose to let the script notify you with 1 beep everytime it starts or not.  
 
-08- "ConfiguredUA.pyw" will be created. Run "CreatEXE.bat" to creat the .exe file. when the batch file terminates,  
+08- "ConfiguredUA.pyw" will be created. Run "CreatEXE.bat" to create the .exe file. When the batch file terminates,  
 you will find your "ConfiguredUA.exe" in "dist" folder.  
 You must delete "ConfiguredUA.pyw" as your password is written inside in plain text!  
 
 09- Hide "ConfiguredUA.exe" anywhere in your machine and rename it.  
 
 10- Double click on the renamed .exe file, give it few seconds to download "CommandCam.exe".  
-Then type your termination password (you will hear 2 beeps when correct password is entered).  
+Then, type your termination password (you will hear 2 beeps when the correct password is entered).  
 Now the script will run everytime your machine is turned on.  
 
 11- If you want the script to run also everytime you unlock your machine follow the instructions on:  
@@ -70,10 +70,10 @@ https://superuser.com/questions/615114/how-to-make-a-window-task-run-everytime-i
     
 >** For the first time you recieve a Notification Email you might need  
 to check your Spam or Junk E-mail and configure your email that this is  
-not spam so that you can recieve it in your inbox.  
+not spam, so that you can regularly recieve it in your inbox.  
 
 >** For the first time a Notification Email is sent from a certain machine,  
-GMAIL will send you an email asking if that was you on that computer.  
+GMAIL will send you an email asking if that was you on the computer.  
 You must confirm that it is you.  
 
 >** If you want to remove the script do the following:
