@@ -45,7 +45,7 @@ c. The EMAIL where you want to recieve your Notifications.
 d. Choose Mode:  
 
 >>+ Protection Mode: Will force Shutdown the machine after sending the Notification Email.  
-+ Monitor Mode: You will just get the Notification Email.  
+>>+ Monitor Mode: You will just get the Notification Email.  
 
 >e. Choose to let the script notify you with 1 beep everytime it starts or not.  
 
