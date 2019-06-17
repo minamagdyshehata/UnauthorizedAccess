@@ -1,5 +1,5 @@
-## UnauthorizedAccess
-# **Get notified when an unauthorized person tries to access your computer behind your back!**
+# **UnauthorizedAccess**
+# Get notified when an unauthorized person tries to access your computer behind your back!
 
 **NOTE: {This Script is written for Windows machines!}**
 
@@ -10,16 +10,17 @@
  *and will result in legal consequences to the identified user.*  
 *+To be used under your own responsibility.*  
 
-This script will run everytime you start your computer and wait for a termination password for 90 seconds (No prompt for the password, just type it on your keyboard!!). If the the correct password is provided, your will hear 2 beeps indicating that and the script will terminate.
+This script will run everytime you start your computer and wait for a termination password for 90 seconds  
+(No prompt for the password, just type it on your keyboard!!). If the the correct password is provided,  
+your will hear 2 beeps indicating that and the script will terminate.  
 
-If the password is not provided :
-
-    -- A Log file will be created with a timestamp of the unauthorized access.
-    -- If a webcam exist a snapshot will be taken.
-       {Special Thanks to: https://github.com/tedburke/CommandCam, for making this possible.}
-        ** Both the Log file and the snapshot will be saved in the same directory of the script.
-    -- If there is an Internet Connection a Notification Email will be sent with the name
-       of the machine and the snapshot taken.
+If the password is not provided :  
+     *+A Log file will be created with a timestamp of the unauthorized access.*  
+     *+If a webcam exist a snapshot will be taken.*  
+      *{Special Thanks to: https://github.com/tedburke/CommandCam, for making this possible.}*  
+         *Both the Log file and the snapshot will be saved in the same directory of the script.*  
+     *+If there is an Internet Connection a Notification Email will be sent with the name*  
+      *of the machine and the snapshot taken.*  
     
 
 How to Configure the script:
