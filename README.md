@@ -5,10 +5,9 @@
 
 
 ***Disclaimer:***  
-> *-It's illegal to monitor others' computers.*  
-> *-Any misuse of this project is completely prohibited*  
->    *and will result in legal consequences to the identified user.*  
-> *-To be used under your own responsibility.*  
+>*-It's illegal to monitor others' computers.*  
+>*-Any misuse of this project is completely prohibited and will result in legal consequences to the identified user.*  
+>*-To be used under your own responsibility.*  
 
 **This script will run everytime you start your computer and wait for a termination password for 90 seconds  
 (No prompt for the password, just type it on your keyboard!!). If the the correct password is provided,  
