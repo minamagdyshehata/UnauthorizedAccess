@@ -33,12 +33,12 @@ https://github.com/minamagdyshehata/UnauthorizedAccess/archive/master.zip<
 https://myaccount.google.com/lesssecureapps?utm_source=google-account&utm_medium=web  
 07- Go to the Unzipped project directory and run "SetupAndConfigureUA.py" and enter the following:  
 >a. Your GMAIL (the one configured to allow less secured apps).  
->b. Your GMAIL password.  
->c. The EMAIL where you want to recieve your Notifications.  
->d. Choose Mode:  
->>+ Protection Mode: Will force Shutdown the machine after sending the Notification Email.  
->>+ Monitor Mode: You will just get the Notification Email.  
->e. Choose to let the script notify you with 1 beep everytime it starts or not.  
+b. Your GMAIL password.  
+c. The EMAIL where you want to recieve your Notifications.  
+d. Choose Mode:  
++ Protection Mode: Will force Shutdown the machine after sending the Notification Email.  
++ Monitor Mode: You will just get the Notification Email.  
+e. Choose to let the script notify you with 1 beep everytime it starts or not.  
 08- "ConfiguredUA.pyw" will be created. Run "CreatEXE.bat" to creat the .exe file. when the batch file terminates,  
 you will find your "ConfiguredUA.exe" in "dist" folder.  
 You must delete "ConfiguredUA.pyw" as your password is written inside in plain text!  
