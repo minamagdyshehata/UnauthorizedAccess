@@ -11,7 +11,7 @@
 
 **This script will run everytime you start your computer and wait for a termination password for 90 seconds  
 (No prompt for the password, just type it on your keyboard!!). If the the correct password is provided,  
-your will hear 2 beeps indicating that and the script will terminate.**  
+you will hear 2 beeps indicating that and the script will terminate.**  
 
 **If the password is not provided :**  
 >  *++A Log file will be created with a timestamp of the unauthorized access.*  
