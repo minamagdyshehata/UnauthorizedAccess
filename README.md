@@ -21,7 +21,7 @@ you will hear 2 beeps indicating that and the script will terminate.**
 >  *++If there is an Internet Connection a Notification Email will be sent with the name of the machine and the snapshot taken.*      
 
 **How to Configure the script:**  
-01- Make sure Paython3 is installed on your machine. If not please go to https://www.python.org/, download and install.  
+01- Make sure Python3 is installed on your machine. If not please go to https://www.python.org/, download and install.  
 
 02- Right Click on "This PC" ===> "Properties" ===> "Advanced System Settings" ===> "Environment Variables".  
 
